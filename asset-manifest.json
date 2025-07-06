@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/immobiliare/static/css/main.7eaea7c1.chunk.css",
+    "main.js": "/immobiliare/static/js/main.438c04aa.chunk.js",
+    "main.js.map": "/immobiliare/static/js/main.438c04aa.chunk.js.map",
+    "runtime~main.js": "/immobiliare/static/js/runtime~main.23723035.js",
+    "runtime~main.js.map": "/immobiliare/static/js/runtime~main.23723035.js.map",
+    "static/css/2.b8b4089c.chunk.css": "/immobiliare/static/css/2.b8b4089c.chunk.css",
+    "static/js/2.008ba21b.chunk.js": "/immobiliare/static/js/2.008ba21b.chunk.js",
+    "static/js/2.008ba21b.chunk.js.map": "/immobiliare/static/js/2.008ba21b.chunk.js.map",
+    "static/js/3.cdf3fc0b.chunk.js": "/immobiliare/static/js/3.cdf3fc0b.chunk.js",
+    "static/js/3.cdf3fc0b.chunk.js.map": "/immobiliare/static/js/3.cdf3fc0b.chunk.js.map",
+    "index.html": "/immobiliare/index.html",
+    "precache-manifest.e3de8d955130d7801d6bf8baf283ae7c.js": "/immobiliare/precache-manifest.e3de8d955130d7801d6bf8baf283ae7c.js",
+    "service-worker.js": "/immobiliare/service-worker.js",
+    "static/css/2.b8b4089c.chunk.css.map": "/immobiliare/static/css/2.b8b4089c.chunk.css.map",
+    "static/css/main.7eaea7c1.chunk.css.map": "/immobiliare/static/css/main.7eaea7c1.chunk.css.map",
+    "static/media/backvideo.mp4": "/immobiliare/static/media/backvideo.201a17e5.mp4",
+    "static/media/bootstrap-icons.css": "/immobiliare/static/media/bootstrap-icons.efe54401.woff",
+    "static/media/female1.png": "/immobiliare/static/media/female1.8509fc1c.png",
+    "static/media/male1.png": "/immobiliare/static/media/male1.43cb4c28.png",
+    "static/media/male2.png": "/immobiliare/static/media/male2.b45d9464.png",
+    "static/media/male3.jpg": "/immobiliare/static/media/male3.5b3ea290.jpg"
+  }
+}
