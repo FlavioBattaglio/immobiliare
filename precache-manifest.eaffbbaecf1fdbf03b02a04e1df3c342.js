@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cc898c04f6f140ea2bb478e3998e20a0",
+    "revision": "b1e3d61c31870eeb741843fbf41fd2dc",
     "url": "/immobiliare/index.html"
   },
   {
-    "revision": "aa537beeac3ade62edfc",
+    "revision": "ac2a73586d3a97355d47",
     "url": "/immobiliare/static/css/2.b8b4089c.chunk.css"
   },
   {
-    "revision": "f81d3546221ae818b721",
+    "revision": "1a416e746f088a6818f1",
     "url": "/immobiliare/static/css/main.7eaea7c1.chunk.css"
   },
   {
-    "revision": "aa537beeac3ade62edfc",
-    "url": "/immobiliare/static/js/2.bcb0de97.chunk.js"
+    "revision": "ac2a73586d3a97355d47",
+    "url": "/immobiliare/static/js/2.b46473f2.chunk.js"
   },
   {
     "revision": "747ef093c0efba43f1ef",
     "url": "/immobiliare/static/js/3.cdf3fc0b.chunk.js"
   },
   {
-    "revision": "f81d3546221ae818b721",
-    "url": "/immobiliare/static/js/main.dd3ce209.chunk.js"
+    "revision": "1a416e746f088a6818f1",
+    "url": "/immobiliare/static/js/main.89a8b354.chunk.js"
   },
   {
     "revision": "9281ee32c0ecf22fdea4",
