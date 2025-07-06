@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cb952e03bbde90ee4498ee4a5c4d5313",
+    "revision": "cc898c04f6f140ea2bb478e3998e20a0",
     "url": "/immobiliare/index.html"
   },
   {
-    "revision": "7090fc9105e772e69109",
+    "revision": "aa537beeac3ade62edfc",
     "url": "/immobiliare/static/css/2.b8b4089c.chunk.css"
   },
   {
-    "revision": "c14bec7e1943b0fd5b61",
+    "revision": "f81d3546221ae818b721",
     "url": "/immobiliare/static/css/main.7eaea7c1.chunk.css"
   },
   {
-    "revision": "7090fc9105e772e69109",
-    "url": "/immobiliare/static/js/2.008ba21b.chunk.js"
+    "revision": "aa537beeac3ade62edfc",
+    "url": "/immobiliare/static/js/2.bcb0de97.chunk.js"
   },
   {
     "revision": "747ef093c0efba43f1ef",
     "url": "/immobiliare/static/js/3.cdf3fc0b.chunk.js"
   },
   {
-    "revision": "c14bec7e1943b0fd5b61",
-    "url": "/immobiliare/static/js/main.438c04aa.chunk.js"
+    "revision": "f81d3546221ae818b721",
+    "url": "/immobiliare/static/js/main.dd3ce209.chunk.js"
   },
   {
     "revision": "9281ee32c0ecf22fdea4",
